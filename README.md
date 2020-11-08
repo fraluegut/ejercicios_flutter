@@ -1,4 +1,4 @@
-# band_names
+# First App in Flutter
 
 A new Flutter project.
 
